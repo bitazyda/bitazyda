@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitazyda&show_icons=true&locale=en&layout=compact" alt="bitazyda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitazyda&" alt="bitazyda" /></p>
